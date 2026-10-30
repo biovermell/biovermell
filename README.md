@@ -14,10 +14,10 @@ This GitHub profile serves as my **digital lab notebook**, documenting my progre
 ## Current and upcoming projects
 
 * **[Python for biologists](https://github.com/biovermell/python-for-biologists):** My answers to exercises from the book *Python for biologists* (2013) by Martin Jones. `Status: Ongoing`
+* **[Aequilibrion](https://github.com/biovermell/aequilibrion):** An analytical chemistry problem generator. `Status: Ongoing`
 * **Rosalind:** My answers to problems on the Rosalind platform, starting with the Python Village and moving on to the Bioinformatics Stronghold. `Status: Ongoing`
   *Per Rosalind's policy, this repository is private. My profile can be viewed [here](https://rosalind.info/users/mframirez/)*
 * **Volatilome Thesis:** Scripts and workflows dedicated to my upcoming volatilome characterization project. `Status: In Development`
-* **Aequilibrion:** An analytical chemistry problem generator. `Status: In Development`
 
 ---
 ## Skills and tools
